@@ -10,6 +10,4 @@ In this project, I propose a robust way of predicting the desired products for a
 ![image](https://user-images.githubusercontent.com/46672597/123036603-f7f93d00-d40a-11eb-968f-b60b546b1501.png)
 
 ### Web Application Demo
-Find a demo of video of the web application here: https://www.youtube.com/watch?v=kuV3HeUN8-Y
-
-
+Find a demo of video of the web application here: https://www.youtube.com/watch?v=8Ygff8fEJzU
