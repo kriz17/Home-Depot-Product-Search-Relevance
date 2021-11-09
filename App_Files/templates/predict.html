@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+<h4>The most relevant products for your search "{{params['search']}}" are:</h4>
+</head>
+<body>
+<ol>
+{%for i in params['results']%}
+    <li>{{i}}</li>
+
+{%endfor%}
+</ol>
+
+</body>
+</html>
